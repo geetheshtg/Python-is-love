@@ -1,2 +1,2 @@
-# Youtube-Video-Downloader
-SImple GUI application using python for downloading youtube videos
+# Python-is-love
+Loveable applications created using python
