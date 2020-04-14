@@ -5,10 +5,10 @@ from pytube import YouTube
 from tkinter import messagebox as m_box
 
 win = tk.Tk()
-win.geometry("500x400")
+win.geometry("650x400")
 win.title("YouTube Video Downloader")
-win.minsize(500,400)
-win.maxsize(500,400)
+win.minsize(650,400)
+win.maxsize(650,400)
 frame = ttk.LabelFrame(win)
 frame.grid(row=0,column=0, padx=70, pady=90)
 
